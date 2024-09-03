@@ -1,8 +1,4 @@
-marks = {
-  "shahid": 99,
-  "pankaj":97,
-  "shubham": 54,
-  }
+marks = {"shahid": 99,"pankaj":97,"shubham": 54,}
 
 #print(marks,type(marks))
 print(marks["shahid"])
